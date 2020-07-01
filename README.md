@@ -4,6 +4,6 @@ Com o avanço da tecnologia dados estão sendo gerados a todo momento e muitos d
 
 A apresentação pode ser acessada clicando [aqui.](https://www.youtube.com/watch?v=BkFAt3UnAMM&feature=youtu.be)
 
-Houve um problema técnico na hora da trasmissão e alguns conteúdos não foram apresetados. Dessa forma decidi gravar um vídeo complementar para abordar os pontos que não foram apresentados. Para acessar o vídeo complementat, basta clicar [aqui.](https://www.youtube.com/watch?v=BkFAt3UnAMM&feature=youtu.be)
+Houve um problema técnico na hora da trasmissão e alguns conteúdos não foram apresetados. Dessa forma decidi gravar um vídeo complementar para abordar os pontos que não foram apresentados. Para acessar o vídeo complementar, basta clicar [aqui.](https://www.youtube.com/watch?v=BkFAt3UnAMM&feature=youtu.be)
 
 ![](https://github.com/ThiagoValentimMarques/IFG2020/blob/master/banner.jpeg?raw=true)
